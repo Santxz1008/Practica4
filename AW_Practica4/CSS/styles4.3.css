@@ -1,0 +1,38 @@
+header{
+    height: 330px;
+    width: 1400px;
+    float: left;
+    list-style: none;
+}
+section{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 10px;
+}
+.seccion1{
+    float: left;
+    margin: 5px;
+    
+}
+.seccion2{
+    float: right;
+    margin: 5px;
+}
+main{
+    width: 1400px;
+    height: 500px;
+    float: left;
+    list-style: none;
+}
+footer{
+    height: 150px;
+    width: 1000px;
+    float: left;
+    list-style: none;
+    margin-left: 450px;
+}
+.seccion3{
+    float: left;
+    margin: 5px;
+}

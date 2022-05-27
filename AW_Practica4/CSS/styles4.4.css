@@ -1,0 +1,40 @@
+header
+{
+    width: 1500px;
+    height: 50px;
+    background-color:royalblue;
+}
+
+.imagen
+{
+    background-color:lightblue;
+    float: left;
+    padding: 100px;
+    border: 7px solid darkcyan;
+    margin: 10px;
+}
+
+nav
+{
+    width: 1500px;
+    height: 500px;
+    background-color:cornflowerblue; 
+}
+
+main
+{
+    width: 1500px;
+    height: 500px;
+    background-color:cornflowerblue;
+}
+.titulo
+{
+    margin: 5px;
+    padding-top: 10px;
+}
+footer
+{
+    width: 1500px;
+    height: 50px;
+    background-color: royalblue;
+}
